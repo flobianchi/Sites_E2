@@ -6,7 +6,7 @@
   #Llama a conexión, crea el objeto PDO y obtiene la variable $db
   require("../config/conexion.php");
 
- 	$query = "SELECT DISTINCT ud.nombre_direccion AS direccion , ud.comuna AS comuna FROM Unidades NATURAL JOIN Direcciones AS ud ORDER BY comuna, direccion;";
+ 	$query = "SELECT DISTINCT ud.id_unidad, ud.nombre_direccion AS direccion, ud.comuna AS comuna FROM Unidades NATURAL JOIN Direcciones AS ud ORDER BY comuna, direccion;";
 	$result = $db -> prepare($query);
 	$result -> execute();
 	$unidades = $result -> fetchAll();
