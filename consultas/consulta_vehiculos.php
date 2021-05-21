@@ -6,7 +6,7 @@
   require("../config/conexion.php"); #Llama a conexión, crea el objeto PDO y obtiene la variable $db
 
   $var = $_POST["comuna_elegida"];
-  $query = "SELECT patente, estado, categoria, tipo, id_unidad FROM Vehiculos natural join Unidades natural join Direcciones AS vud WHERE comuna LIKE comuna_elegida='$var';";
+  $query = "SELECT * FROM Vehiculos natural join Unidades natural join Direcciones AS vud WHERE comuna LIKE comuna_elegida='$var';";
   $result = $db -> prepare($query);
   $result -> execute();
   $vehiculos = $result -> fetchAll(); #Obtiene todos los resultados de la consulta en forma de un arreglo
@@ -22,7 +22,7 @@
     </tr>
   <?php
   foreach ($vehiculos as $p) {
-    echo "<tr> <td>$p[0]</td> <td>$p[1]</td> <td>$p[2]</td> <td>$p[3]</td> <td>$p[4]</td></tr>";
+    echo "<tr> <td>$p[3]</td> <td>$p[4]</td> <td>$p[5]</td> <td>$p[6]</td> <td>$p[1]</td></tr>";
   }
   ?>
   </table>
