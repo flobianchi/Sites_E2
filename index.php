@@ -19,8 +19,7 @@
   <br>
 
   <!-- Consulta 2 -->
-  
-  <h3 align="center"> Ingrese una comuna. Muestre todos los vehiculos de las unidades ubicadas enesa comuna.</h3>
+  <h3 align="center"> Ingrese una comuna. Muestre todos los vehiculos de las unidades ubicadas en esa comuna.</h3>
 
   <form align="center" action="consultas/consulta_vehiculos.php" method="post">
     Comuna:
@@ -32,13 +31,17 @@
   <br>
   <br>
   <br>
-<!--
-  <h3 align="center"> ¿Quieres buscar un Pokemón por su ID?</h3>
 
-  <form align="center" action="consultas/consulta_stats.php" method="post">
-    Id:
-    <input type="text" name="id_elegido">
-    <br/><br/>
+<!-- Consulta 1 -->
+  <h3 align="center">Ingrese una comuna y seleccione un año. Muestre todos los vehiculos que hayan realizado un despacho en dicha comuna durante ese año.</h3>
+
+  <form align="center" action="consultas/consulta_vehiculos_despacho.php" method="post">
+    Comuna:
+    <input type="text" name="comuna_elegida">
+    <br/>
+    Año:
+    <input type="text" name="select_ano">
+    <br/>
     <input type="submit" value="Buscar">
   </form>
   
@@ -46,6 +49,7 @@
   <br>
   <br>
 
+<!--
   <h3 align="center"> ¿Quieres conocer los Pokemones más altos que: ?</h3>
 
   <form align="center" action="consultas/consulta_altura.php" method="post">
