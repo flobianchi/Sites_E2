@@ -1,0 +1,118 @@
+id_vehiculo;id_unidad;patente;estado;categoria;tipo
+0;8;ZX2922;activo;fresco;auto
+1;13;PM8536;activo;fresco;moto
+2;49;VC7492;activo;fresco;camioneta
+3;0;LS5992;activo;fresco;moto
+4;7;PJ5481;activo;cadena fria;auto
+5;18;LX6914;activo;fresco;auto
+6;44;EH9187;activo;cadena fria;bicicleta
+7;14;ST8633;activo;cadena fria;camioneta
+8;53;EY2745;activo;cadena fria;moto
+9;26;LA5643;activo;cadena fria;moto
+10;45;AU5998;mantencion;fresco;moto
+11;22;ET5609;activo;cadena fria;moto
+12;51;MO4425;mantencion;carga;camioneta
+13;30;BY5212;activo;cadena fria;camioneta
+14;47;EG8528;activo;carga;camioneta
+15;31;QD4440;activo;cadena fria;moto
+16;40;VX5561;activo;fresco;bicicleta
+17;2;VT6220;activo;no asignado;camion
+18;35;XK7318;activo;fresco;auto
+19;21;WW2485;activo;cadena fria;camioneta
+20;6;HV2199;activo;no asignado;camion
+21;19;ID7819;activo;fresco;bicicleta
+22;15;QA2495;activo;cadena fria;bicicleta
+23;39;WF7217;activo;no asignado;camion
+24;10;BN4195;activo;cadena fria;moto
+25;1;UW2735;mantencion;fresco;camioneta
+26;11;EF7582;activo;no asignado;camion
+27;42;OT5458;mantencion;fresco;moto
+28;17;YN4644;activo;carga;camioneta
+29;37;FS3778;activo;fresco;bicicleta
+30;16;VW7522;activo;fresco;bicicleta
+31;23;VI4743;activo;carga;camioneta
+32;34;OJ8771;activo;fresco;auto
+33;38;OC4762;activo;fresco;camioneta
+34;46;XN4914;mantencion;cadena fria;bicicleta
+35;20;XP9141;activo;cadena fria;bicicleta
+36;50;EX4705;activo;carga;camioneta
+37;55;BJ4245;activo;fresco;moto
+38;52;RH8308;activo;cadena fria;auto
+39;29;YP3858;activo;cadena fria;camioneta
+40;48;AL8743;activo;carga;camioneta
+41;27;KM2551;activo;fresco;auto
+42;56;EI5702;activo;fresco;bicicleta
+43;9;RJ2733;mantencion;fresco;auto
+44;41;YG2900;activo;cadena fria;bicicleta
+45;12;TO8113;mantencion;fresco;bicicleta
+46;36;HE7029;activo;cadena fria;camioneta
+47;4;HB3228;activo;fresco;bicicleta
+48;33;OF5956;activo;cadena fria;moto
+49;25;SG9128;mantencion;no asignado;camion
+50;54;GO7311;activo;fresco;bicicleta
+51;32;PM7495;activo;fresco;auto
+52;28;GS7205;activo;fresco;auto
+53;24;PU5101;mantencion;cadena fria;bicicleta
+54;5;VP2429;activo;no asignado;camion
+55;43;MO4968;activo;fresco;auto
+56;51;BI5654;activo;carga;camioneta
+57;25;YB8271;activo;cadena fria;auto
+58;35;VT2032;activo;cadena fria;auto
+59;39;MU6547;activo;fresco;camioneta
+60;50;IW2489;activo;cadena fria;bicicleta
+61;18;IG9597;mantencion;fresco;moto
+62;17;AU6167;activo;cadena fria;bicicleta
+63;5;JD8184;activo;fresco;moto
+64;31;RK2324;activo;fresco;camioneta
+65;54;LN6036;activo;no asignado;camion
+66;12;PZ3477;mantencion;fresco;camioneta
+67;7;GM1638;activo;fresco;bicicleta
+68;18;CI3218;activo;no asignado;camion
+69;20;UH6836;activo;fresco;moto
+70;32;QJ6353;activo;no asignado;camion
+71;5;LW4637;activo;fresco;camioneta
+72;41;SL2391;mantencion;fresco;moto
+73;4;PP3724;activo;fresco;camioneta
+74;23;QL4591;activo;cadena fria;bicicleta
+75;10;BF7024;mantencion;carga;camioneta
+76;40;QI7769;activo;cadena fria;moto
+77;8;FM3163;mantencion;fresco;auto
+78;20;NX3376;activo;cadena fria;moto
+79;30;XG7925;activo;cadena fria;moto
+80;19;KY2131;activo;cadena fria;moto
+81;28;MW6341;activo;fresco;auto
+82;23;FU8868;activo;fresco;bicicleta
+83;7;UH1378;activo;no asignado;camion
+84;39;GT9752;activo;fresco;auto
+85;14;OB9598;mantencion;fresco;camioneta
+86;21;VR7517;mantencion;no asignado;camion
+87;9;GF5994;activo;fresco;auto
+88;45;HF1544;activo;fresco;auto
+89;45;AI2283;mantencion;cadena fria;moto
+90;23;KC2936;activo;carga;camioneta
+91;32;MN1612;mantencion;fresco;moto
+92;12;OR9516;activo;fresco;moto
+93;43;OE1789;mantencion;fresco;camioneta
+94;30;WD8846;activo;fresco;bicicleta
+95;2;MZ9845;activo;carga;camioneta
+96;3;RV9799;mantencion;cadena fria;bicicleta
+97;21;IV2746;activo;fresco;moto
+98;33;TJ7818;mantencion;cadena fria;moto
+99;2;OF1501;activo;fresco;camioneta
+100;56;BY4314;activo;fresco;camioneta
+101;4;AM9504;activo;cadena fria;camioneta
+102;12;ZV9679;activo;carga;camioneta
+103;3;SV9482;activo;fresco;auto
+104;51;UL8619;activo;fresco;bicicleta
+105;49;LF8633;activo;fresco;camioneta
+106;53;PR9667;activo;carga;camioneta
+107;35;MZ2239;activo;no asignado;camion
+108;14;WI9449;activo;cadena fria;bicicleta
+109;2;XG4556;activo;cadena fria;camioneta
+110;1;HW2014;activo;cadena fria;auto
+111;28;BZ3311;activo;fresco;moto
+112;3;BB5259;mantencion;fresco;bicicleta
+113;39;WC8293;activo;fresco;camioneta
+114;36;RY9242;mantencion;fresco;auto
+115;32;OM4230;activo;no asignado;camion
+116;40;AL1557;mantencion;fresco;auto

@@ -1,0 +1,1166 @@
+id;id_personal_repartidor;tipo
+0;0;auto
+1;0;vehiculo de carga
+2;0;moto
+3;1;auto
+4;1;moto
+5;2;moto
+6;2;no es necesaria
+7;3;auto
+8;4;moto
+9;4;vehiculo de carga
+10;6;no es necesaria
+11;6;vehiculo de carga
+12;8;no es necesaria
+13;9;no es necesaria
+14;9;auto
+15;11;no es necesaria
+16;11;auto
+17;12;moto
+18;12;no es necesaria
+19;14;no es necesaria
+20;14;auto
+21;15;no es necesaria
+22;15;moto
+23;15;auto
+24;18;auto
+25;18;moto
+26;20;auto
+27;20;no es necesaria
+28;21;moto
+29;21;auto
+30;23;no es necesaria
+31;23;auto
+32;24;auto
+33;25;auto
+34;26;no es necesaria
+35;26;vehiculo de carga
+36;26;auto
+37;28;auto
+38;28;moto
+39;29;no es necesaria
+40;29;auto
+41;29;vehiculo de carga
+42;32;vehiculo de carga
+43;32;moto
+44;33;vehiculo de carga
+45;33;no es necesaria
+46;33;auto
+47;34;moto
+48;34;auto
+49;36;no es necesaria
+50;36;auto
+51;37;no es necesaria
+52;37;moto
+53;38;moto
+54;38;auto
+55;38;vehiculo de carga
+56;39;no es necesaria
+57;39;moto
+58;39;vehiculo de carga
+59;40;auto
+60;40;no es necesaria
+61;40;moto
+62;42;auto
+63;42;no es necesaria
+64;43;vehiculo de carga
+65;43;auto
+66;44;auto
+67;44;no es necesaria
+68;49;auto
+69;51;auto
+70;52;auto
+71;52;no es necesaria
+72;53;auto
+73;55;auto
+74;58;moto
+75;58;vehiculo de carga
+76;58;no es necesaria
+77;59;auto
+78;59;moto
+79;61;auto
+80;61;no es necesaria
+81;63;moto
+82;63;auto
+83;65;auto
+84;65;vehiculo de carga
+85;65;moto
+86;67;no es necesaria
+87;67;moto
+88;67;auto
+89;71;auto
+90;71;moto
+91;72;no es necesaria
+92;72;moto
+93;73;no es necesaria
+94;73;moto
+95;75;moto
+96;75;no es necesaria
+97;75;vehiculo de carga
+98;75;auto
+99;79;no es necesaria
+100;79;moto
+101;82;auto
+102;82;no es necesaria
+103;84;auto
+104;84;no es necesaria
+105;85;moto
+106;85;auto
+107;86;moto
+108;86;auto
+109;89;auto
+110;89;moto
+111;91;moto
+112;91;auto
+113;93;vehiculo de carga
+114;93;no es necesaria
+115;95;vehiculo de carga
+116;95;moto
+117;95;auto
+118;96;no es necesaria
+119;96;auto
+120;96;vehiculo de carga
+121;97;auto
+122;97;no es necesaria
+123;97;moto
+124;97;vehiculo de carga
+125;99;moto
+126;99;auto
+127;99;no es necesaria
+128;100;auto
+129;100;moto
+130;101;no es necesaria
+131;101;auto
+132;102;auto
+133;102;vehiculo de carga
+134;103;vehiculo de carga
+135;103;auto
+136;103;moto
+137;104;auto
+138;104;moto
+139;106;moto
+140;106;vehiculo de carga
+141;109;auto
+142;109;moto
+143;110;auto
+144;110;moto
+145;114;vehiculo de carga
+146;114;no es necesaria
+147;115;no es necesaria
+148;115;auto
+149;116;auto
+150;116;moto
+151;116;no es necesaria
+152;118;auto
+153;118;vehiculo de carga
+154;119;moto
+155;119;auto
+156;119;no es necesaria
+157;120;auto
+158;120;vehiculo de carga
+159;122;auto
+160;122;no es necesaria
+161;123;auto
+162;123;vehiculo de carga
+163;124;no es necesaria
+164;124;auto
+165;125;auto
+166;125;vehiculo de carga
+167;126;auto
+168;126;no es necesaria
+169;127;moto
+170;127;vehiculo de carga
+171;127;no es necesaria
+172;128;no es necesaria
+173;128;auto
+174;129;auto
+175;130;moto
+176;130;auto
+177;131;no es necesaria
+178;131;auto
+179;132;auto
+180;132;moto
+181;133;moto
+182;133;vehiculo de carga
+183;133;no es necesaria
+184;133;auto
+185;136;vehiculo de carga
+186;136;no es necesaria
+187;137;auto
+188;137;no es necesaria
+189;140;no es necesaria
+190;140;auto
+191;141;auto
+192;141;vehiculo de carga
+193;141;no es necesaria
+194;142;vehiculo de carga
+195;142;auto
+196;142;moto
+197;144;moto
+198;144;auto
+199;144;no es necesaria
+200;145;moto
+201;145;vehiculo de carga
+202;145;no es necesaria
+203;146;vehiculo de carga
+204;146;auto
+205;148;no es necesaria
+206;148;auto
+207;149;auto
+208;151;no es necesaria
+209;151;auto
+210;153;auto
+211;153;no es necesaria
+212;153;moto
+213;154;vehiculo de carga
+214;154;moto
+215;154;no es necesaria
+216;154;auto
+217;156;auto
+218;156;no es necesaria
+219;157;vehiculo de carga
+220;157;moto
+221;157;no es necesaria
+222;158;auto
+223;158;vehiculo de carga
+224;159;vehiculo de carga
+225;160;auto
+226;161;auto
+227;165;vehiculo de carga
+228;165;auto
+229;165;moto
+230;167;no es necesaria
+231;167;vehiculo de carga
+232;167;auto
+233;168;auto
+234;168;no es necesaria
+235;168;moto
+236;169;no es necesaria
+237;169;moto
+238;172;vehiculo de carga
+239;172;no es necesaria
+240;172;moto
+241;173;no es necesaria
+242;173;auto
+243;174;no es necesaria
+244;174;auto
+245;177;auto
+246;178;auto
+247;178;no es necesaria
+248;179;vehiculo de carga
+249;179;moto
+250;181;auto
+251;181;vehiculo de carga
+252;183;no es necesaria
+253;183;auto
+254;184;auto
+255;185;no es necesaria
+256;185;auto
+257;187;auto
+258;187;moto
+259;187;vehiculo de carga
+260;188;auto
+261;188;no es necesaria
+262;189;moto
+263;189;auto
+264;191;no es necesaria
+265;191;auto
+266;191;moto
+267;192;no es necesaria
+268;192;auto
+269;194;moto
+270;194;auto
+271;196;auto
+272;198;auto
+273;199;no es necesaria
+274;199;auto
+275;200;vehiculo de carga
+276;200;auto
+277;200;moto
+278;205;auto
+279;205;moto
+280;205;no es necesaria
+281;206;no es necesaria
+282;207;auto
+283;210;auto
+284;210;moto
+285;213;moto
+286;213;no es necesaria
+287;214;moto
+288;214;auto
+289;216;moto
+290;216;vehiculo de carga
+291;217;auto
+292;219;auto
+293;219;moto
+294;220;moto
+295;220;no es necesaria
+296;220;auto
+297;221;moto
+298;221;no es necesaria
+299;221;auto
+300;222;moto
+301;222;auto
+302;224;auto
+303;224;vehiculo de carga
+304;227;moto
+305;227;auto
+306;228;auto
+307;228;no es necesaria
+308;230;auto
+309;230;no es necesaria
+310;232;auto
+311;233;moto
+312;233;auto
+313;235;auto
+314;236;auto
+315;236;no es necesaria
+316;238;moto
+317;238;auto
+318;239;moto
+319;240;auto
+320;240;moto
+321;242;auto
+322;242;moto
+323;243;auto
+324;243;moto
+325;243;no es necesaria
+326;245;no es necesaria
+327;245;auto
+328;246;no es necesaria
+329;246;auto
+330;247;moto
+331;247;auto
+332;248;auto
+333;248;no es necesaria
+334;250;moto
+335;251;no es necesaria
+336;251;auto
+337;253;no es necesaria
+338;253;auto
+339;254;auto
+340;257;auto
+341;258;vehiculo de carga
+342;258;auto
+343;259;no es necesaria
+344;259;auto
+345;262;moto
+346;262;no es necesaria
+347;262;auto
+348;264;auto
+349;264;moto
+350;265;moto
+351;265;no es necesaria
+352;266;auto
+353;266;vehiculo de carga
+354;267;no es necesaria
+355;267;auto
+356;267;moto
+357;268;moto
+358;268;no es necesaria
+359;269;auto
+360;269;vehiculo de carga
+361;270;no es necesaria
+362;270;vehiculo de carga
+363;273;moto
+364;273;no es necesaria
+365;273;auto
+366;274;no es necesaria
+367;274;moto
+368;274;auto
+369;275;moto
+370;275;auto
+371;276;no es necesaria
+372;276;vehiculo de carga
+373;276;moto
+374;277;moto
+375;277;auto
+376;281;vehiculo de carga
+377;281;auto
+378;282;no es necesaria
+379;282;auto
+380;283;auto
+381;283;no es necesaria
+382;284;moto
+383;284;auto
+384;285;vehiculo de carga
+385;285;auto
+386;286;auto
+387;286;vehiculo de carga
+388;286;moto
+389;287;no es necesaria
+390;287;auto
+391;288;no es necesaria
+392;289;moto
+393;289;no es necesaria
+394;289;vehiculo de carga
+395;291;auto
+396;291;vehiculo de carga
+397;291;moto
+398;296;no es necesaria
+399;296;auto
+400;296;moto
+401;298;auto
+402;298;no es necesaria
+403;299;no es necesaria
+404;299;moto
+405;300;auto
+406;300;no es necesaria
+407;302;auto
+408;302;no es necesaria
+409;304;vehiculo de carga
+410;304;moto
+411;306;auto
+412;309;moto
+413;309;no es necesaria
+414;311;auto
+415;313;vehiculo de carga
+416;313;auto
+417;314;auto
+418;314;moto
+419;314;no es necesaria
+420;315;auto
+421;315;no es necesaria
+422;316;auto
+423;316;no es necesaria
+424;317;auto
+425;318;auto
+426;321;moto
+427;321;auto
+428;323;moto
+429;323;no es necesaria
+430;323;auto
+431;324;no es necesaria
+432;324;auto
+433;327;auto
+434;327;no es necesaria
+435;327;vehiculo de carga
+436;328;auto
+437;328;vehiculo de carga
+438;329;no es necesaria
+439;329;auto
+440;329;vehiculo de carga
+441;331;auto
+442;332;auto
+443;332;vehiculo de carga
+444;333;moto
+445;334;no es necesaria
+446;334;auto
+447;335;no es necesaria
+448;335;auto
+449;335;moto
+450;336;no es necesaria
+451;336;auto
+452;339;vehiculo de carga
+453;339;auto
+454;340;auto
+455;342;no es necesaria
+456;342;auto
+457;342;vehiculo de carga
+458;344;auto
+459;345;auto
+460;346;no es necesaria
+461;347;no es necesaria
+462;347;auto
+463;350;moto
+464;350;vehiculo de carga
+465;350;no es necesaria
+466;350;auto
+467;351;moto
+468;351;auto
+469;353;auto
+470;353;moto
+471;354;moto
+472;354;auto
+473;355;no es necesaria
+474;355;auto
+475;356;auto
+476;357;no es necesaria
+477;357;vehiculo de carga
+478;357;moto
+479;358;auto
+480;361;vehiculo de carga
+481;361;auto
+482;362;auto
+483;363;auto
+484;363;no es necesaria
+485;365;no es necesaria
+486;365;vehiculo de carga
+487;365;auto
+488;366;no es necesaria
+489;366;auto
+490;367;auto
+491;367;moto
+492;368;no es necesaria
+493;368;auto
+494;369;no es necesaria
+495;369;auto
+496;371;auto
+497;372;vehiculo de carga
+498;372;auto
+499;375;moto
+500;375;vehiculo de carga
+501;376;no es necesaria
+502;376;auto
+503;377;vehiculo de carga
+504;377;auto
+505;378;auto
+506;378;no es necesaria
+507;378;moto
+508;379;moto
+509;379;no es necesaria
+510;380;auto
+511;381;auto
+512;381;no es necesaria
+513;381;moto
+514;382;auto
+515;382;no es necesaria
+516;383;no es necesaria
+517;384;auto
+518;384;no es necesaria
+519;384;moto
+520;385;vehiculo de carga
+521;385;auto
+522;385;moto
+523;388;no es necesaria
+524;388;auto
+525;389;moto
+526;389;auto
+527;389;no es necesaria
+528;390;moto
+529;390;auto
+530;391;auto
+531;391;moto
+532;392;auto
+533;392;moto
+534;393;auto
+535;393;vehiculo de carga
+536;394;auto
+537;394;moto
+538;395;auto
+539;395;no es necesaria
+540;395;moto
+541;396;vehiculo de carga
+542;396;moto
+543;397;no es necesaria
+544;397;auto
+545;397;vehiculo de carga
+546;398;no es necesaria
+547;398;auto
+548;399;no es necesaria
+549;399;auto
+550;400;auto
+551;400;moto
+552;402;auto
+553;403;auto
+554;403;moto
+555;403;no es necesaria
+556;404;auto
+557;407;moto
+558;407;vehiculo de carga
+559;409;moto
+560;409;no es necesaria
+561;410;moto
+562;410;auto
+563;410;vehiculo de carga
+564;411;auto
+565;411;no es necesaria
+566;412;moto
+567;412;auto
+568;414;auto
+569;414;no es necesaria
+570;415;moto
+571;415;no es necesaria
+572;415;vehiculo de carga
+573;415;auto
+574;416;moto
+575;416;no es necesaria
+576;416;auto
+577;421;no es necesaria
+578;421;auto
+579;422;auto
+580;423;no es necesaria
+581;423;auto
+582;423;vehiculo de carga
+583;424;moto
+584;424;auto
+585;425;moto
+586;425;auto
+587;425;vehiculo de carga
+588;429;no es necesaria
+589;429;vehiculo de carga
+590;429;auto
+591;430;vehiculo de carga
+592;430;moto
+593;432;auto
+594;432;moto
+595;435;auto
+596;435;moto
+597;436;auto
+598;437;vehiculo de carga
+599;437;moto
+600;437;no es necesaria
+601;441;moto
+602;441;auto
+603;441;no es necesaria
+604;441;vehiculo de carga
+605;442;no es necesaria
+606;442;auto
+607;442;moto
+608;442;vehiculo de carga
+609;444;vehiculo de carga
+610;444;no es necesaria
+611;444;auto
+612;445;moto
+613;445;vehiculo de carga
+614;446;auto
+615;448;auto
+616;448;vehiculo de carga
+617;452;auto
+618;452;vehiculo de carga
+619;455;auto
+620;455;vehiculo de carga
+621;456;no es necesaria
+622;458;vehiculo de carga
+623;458;auto
+624;459;auto
+625;460;moto
+626;460;auto
+627;460;no es necesaria
+628;462;auto
+629;462;moto
+630;463;moto
+631;463;no es necesaria
+632;463;auto
+633;464;moto
+634;464;no es necesaria
+635;464;auto
+636;465;auto
+637;465;no es necesaria
+638;466;auto
+639;466;vehiculo de carga
+640;466;no es necesaria
+641;467;moto
+642;467;no es necesaria
+643;467;auto
+644;470;moto
+645;470;auto
+646;472;moto
+647;472;no es necesaria
+648;472;auto
+649;474;no es necesaria
+650;474;auto
+651;475;vehiculo de carga
+652;475;no es necesaria
+653;475;moto
+654;475;auto
+655;476;no es necesaria
+656;476;auto
+657;477;vehiculo de carga
+658;477;auto
+659;478;auto
+660;478;no es necesaria
+661;478;moto
+662;479;no es necesaria
+663;479;auto
+664;483;no es necesaria
+665;483;auto
+666;484;no es necesaria
+667;484;auto
+668;485;auto
+669;485;no es necesaria
+670;486;auto
+671;487;auto
+672;488;vehiculo de carga
+673;488;auto
+674;488;moto
+675;490;auto
+676;493;auto
+677;495;moto
+678;495;auto
+679;496;auto
+680;496;moto
+681;497;vehiculo de carga
+682;497;moto
+683;497;auto
+684;502;auto
+685;502;moto
+686;503;vehiculo de carga
+687;503;auto
+688;505;moto
+689;505;no es necesaria
+690;506;moto
+691;506;vehiculo de carga
+692;506;auto
+693;507;auto
+694;507;no es necesaria
+695;508;vehiculo de carga
+696;509;moto
+697;509;auto
+698;511;auto
+699;511;no es necesaria
+700;511;vehiculo de carga
+701;512;auto
+702;512;moto
+703;512;no es necesaria
+704;513;moto
+705;513;auto
+706;514;vehiculo de carga
+707;514;moto
+708;515;auto
+709;515;no es necesaria
+710;515;moto
+711;516;no es necesaria
+712;516;moto
+713;517;moto
+714;517;auto
+715;518;auto
+716;518;no es necesaria
+717;519;auto
+718;519;no es necesaria
+719;520;auto
+720;520;no es necesaria
+721;521;moto
+722;523;no es necesaria
+723;523;moto
+724;523;auto
+725;523;vehiculo de carga
+726;524;auto
+727;524;moto
+728;525;moto
+729;525;auto
+730;526;moto
+731;526;auto
+732;530;auto
+733;531;auto
+734;534;no es necesaria
+735;534;auto
+736;534;moto
+737;535;no es necesaria
+738;535;moto
+739;536;moto
+740;536;no es necesaria
+741;536;auto
+742;537;moto
+743;537;auto
+744;539;vehiculo de carga
+745;539;no es necesaria
+746;540;moto
+747;540;no es necesaria
+748;542;no es necesaria
+749;542;vehiculo de carga
+750;543;vehiculo de carga
+751;543;auto
+752;546;vehiculo de carga
+753;546;auto
+754;548;auto
+755;548;no es necesaria
+756;550;moto
+757;550;vehiculo de carga
+758;550;auto
+759;551;auto
+760;551;vehiculo de carga
+761;551;moto
+762;552;no es necesaria
+763;552;auto
+764;553;moto
+765;553;auto
+766;553;no es necesaria
+767;554;auto
+768;554;vehiculo de carga
+769;555;auto
+770;555;moto
+771;555;no es necesaria
+772;556;no es necesaria
+773;556;vehiculo de carga
+774;556;auto
+775;557;no es necesaria
+776;557;auto
+777;559;auto
+778;560;no es necesaria
+779;560;auto
+780;561;moto
+781;561;auto
+782;562;no es necesaria
+783;562;auto
+784;563;vehiculo de carga
+785;563;auto
+786;564;auto
+787;564;moto
+788;566;auto
+789;566;no es necesaria
+790;567;no es necesaria
+791;567;auto
+792;568;auto
+793;568;moto
+794;570;auto
+795;573;moto
+796;573;auto
+797;574;auto
+798;574;moto
+799;575;vehiculo de carga
+800;575;moto
+801;575;auto
+802;575;no es necesaria
+803;576;no es necesaria
+804;576;auto
+805;576;vehiculo de carga
+806;577;no es necesaria
+807;578;no es necesaria
+808;578;moto
+809;579;auto
+810;579;vehiculo de carga
+811;579;moto
+812;581;auto
+813;581;moto
+814;582;moto
+815;582;auto
+816;584;auto
+817;584;vehiculo de carga
+818;584;moto
+819;586;auto
+820;590;auto
+821;590;no es necesaria
+822;591;auto
+823;591;vehiculo de carga
+824;591;no es necesaria
+825;592;auto
+826;592;no es necesaria
+827;593;no es necesaria
+828;595;no es necesaria
+829;595;auto
+830;595;moto
+831;596;vehiculo de carga
+832;596;moto
+833;598;no es necesaria
+834;598;auto
+835;599;auto
+836;599;moto
+837;600;moto
+838;600;vehiculo de carga
+839;601;auto
+840;601;no es necesaria
+841;601;moto
+842;602;auto
+843;602;moto
+844;603;no es necesaria
+845;603;moto
+846;605;no es necesaria
+847;605;auto
+848;606;moto
+849;606;auto
+850;608;auto
+851;608;no es necesaria
+852;608;moto
+853;609;auto
+854;609;no es necesaria
+855;610;vehiculo de carga
+856;610;auto
+857;611;vehiculo de carga
+858;611;moto
+859;612;no es necesaria
+860;612;auto
+861;612;moto
+862;614;auto
+863;614;vehiculo de carga
+864;615;auto
+865;615;moto
+866;616;auto
+867;616;moto
+868;617;moto
+869;617;auto
+870;617;no es necesaria
+871;618;moto
+872;618;auto
+873;619;auto
+874;619;vehiculo de carga
+875;620;moto
+876;620;auto
+877;620;no es necesaria
+878;621;auto
+879;621;vehiculo de carga
+880;624;moto
+881;624;auto
+882;625;auto
+883;625;vehiculo de carga
+884;628;no es necesaria
+885;628;vehiculo de carga
+886;628;moto
+887;629;no es necesaria
+888;629;auto
+889;630;auto
+890;630;vehiculo de carga
+891;631;auto
+892;632;auto
+893;633;moto
+894;633;vehiculo de carga
+895;633;no es necesaria
+896;634;moto
+897;634;vehiculo de carga
+898;635;moto
+899;635;auto
+900;636;auto
+901;636;no es necesaria
+902;639;auto
+903;640;no es necesaria
+904;640;auto
+905;641;vehiculo de carga
+906;641;auto
+907;642;auto
+908;642;vehiculo de carga
+909;643;auto
+910;643;vehiculo de carga
+911;644;vehiculo de carga
+912;644;auto
+913;645;no es necesaria
+914;645;auto
+915;646;vehiculo de carga
+916;646;no es necesaria
+917;652;auto
+918;652;moto
+919;653;moto
+920;653;auto
+921;653;vehiculo de carga
+922;654;moto
+923;654;no es necesaria
+924;654;auto
+925;655;no es necesaria
+926;655;auto
+927;657;moto
+928;657;no es necesaria
+929;658;moto
+930;658;auto
+931;658;no es necesaria
+932;660;auto
+933;660;vehiculo de carga
+934;661;auto
+935;661;no es necesaria
+936;663;no es necesaria
+937;663;auto
+938;664;moto
+939;664;auto
+940;665;no es necesaria
+941;665;moto
+942;667;moto
+943;667;auto
+944;669;moto
+945;669;auto
+946;670;moto
+947;670;auto
+948;671;vehiculo de carga
+949;671;auto
+950;671;moto
+951;672;moto
+952;672;no es necesaria
+953;673;no es necesaria
+954;674;auto
+955;676;auto
+956;677;auto
+957;678;auto
+958;678;moto
+959;679;auto
+960;679;no es necesaria
+961;680;auto
+962;680;no es necesaria
+963;681;no es necesaria
+964;681;auto
+965;682;no es necesaria
+966;682;vehiculo de carga
+967;682;auto
+968;683;moto
+969;683;no es necesaria
+970;683;auto
+971;686;auto
+972;687;moto
+973;687;no es necesaria
+974;687;auto
+975;689;vehiculo de carga
+976;689;auto
+977;690;moto
+978;690;no es necesaria
+979;690;vehiculo de carga
+980;691;no es necesaria
+981;691;moto
+982;692;moto
+983;692;auto
+984;693;moto
+985;693;no es necesaria
+986;693;auto
+987;694;no es necesaria
+988;694;moto
+989;695;auto
+990;695;vehiculo de carga
+991;695;moto
+992;697;vehiculo de carga
+993;697;auto
+994;697;no es necesaria
+995;698;no es necesaria
+996;699;auto
+997;699;no es necesaria
+998;699;vehiculo de carga
+999;700;auto
+1000;700;vehiculo de carga
+1001;701;auto
+1002;702;moto
+1003;702;vehiculo de carga
+1004;702;no es necesaria
+1005;703;vehiculo de carga
+1006;703;auto
+1007;704;vehiculo de carga
+1008;704;no es necesaria
+1009;705;moto
+1010;705;no es necesaria
+1011;705;vehiculo de carga
+1012;705;auto
+1013;706;no es necesaria
+1014;706;moto
+1015;706;auto
+1016;707;auto
+1017;707;no es necesaria
+1018;707;moto
+1019;707;vehiculo de carga
+1020;708;moto
+1021;709;auto
+1022;710;auto
+1023;710;vehiculo de carga
+1024;711;auto
+1025;711;moto
+1026;712;no es necesaria
+1027;712;auto
+1028;712;moto
+1029;715;auto
+1030;715;no es necesaria
+1031;716;moto
+1032;716;vehiculo de carga
+1033;717;moto
+1034;718;no es necesaria
+1035;718;auto
+1036;720;no es necesaria
+1037;720;auto
+1038;720;moto
+1039;722;no es necesaria
+1040;722;auto
+1041;723;auto
+1042;723;no es necesaria
+1043;725;auto
+1044;725;no es necesaria
+1045;726;auto
+1046;728;moto
+1047;728;no es necesaria
+1048;728;auto
+1049;731;no es necesaria
+1050;731;auto
+1051;731;moto
+1052;733;no es necesaria
+1053;733;vehiculo de carga
+1054;733;auto
+1055;734;moto
+1056;734;no es necesaria
+1057;736;moto
+1058;736;auto
+1059;737;auto
+1060;737;no es necesaria
+1061;738;no es necesaria
+1062;738;auto
+1063;741;no es necesaria
+1064;741;moto
+1065;741;auto
+1066;742;auto
+1067;742;moto
+1068;744;auto
+1069;744;vehiculo de carga
+1070;745;moto
+1071;745;no es necesaria
+1072;745;auto
+1073;749;no es necesaria
+1074;753;moto
+1075;753;auto
+1076;756;auto
+1077;756;moto
+1078;757;auto
+1079;757;moto
+1080;758;auto
+1081;758;moto
+1082;759;auto
+1083;760;auto
+1084;760;moto
+1085;761;vehiculo de carga
+1086;761;auto
+1087;762;vehiculo de carga
+1088;762;no es necesaria
+1089;763;no es necesaria
+1090;763;auto
+1091;763;moto
+1092;768;auto
+1093;772;vehiculo de carga
+1094;772;moto
+1095;772;auto
+1096;773;auto
+1097;776;moto
+1098;777;no es necesaria
+1099;777;auto
+1100;778;auto
+1101;779;auto
+1102;779;no es necesaria
+1103;780;auto
+1104;780;moto
+1105;783;auto
+1106;783;moto
+1107;785;auto
+1108;785;no es necesaria
+1109;787;no es necesaria
+1110;787;auto
+1111;787;vehiculo de carga
+1112;790;auto
+1113;790;moto
+1114;790;no es necesaria
+1115;791;moto
+1116;791;no es necesaria
+1117;792;auto
+1118;792;moto
+1119;793;auto
+1120;794;auto
+1121;794;vehiculo de carga
+1122;797;auto
+1123;797;moto
+1124;797;vehiculo de carga
+1125;798;vehiculo de carga
+1126;798;auto
+1127;799;auto
+1128;799;moto
+1129;800;moto
+1130;800;no es necesaria
+1131;801;auto
+1132;802;auto
+1133;803;moto
+1134;803;no es necesaria
+1135;803;auto
+1136;804;moto
+1137;804;no es necesaria
+1138;805;auto
+1139;805;moto
+1140;809;auto
+1141;809;vehiculo de carga
+1142;810;no es necesaria
+1143;810;auto
+1144;811;auto
+1145;811;no es necesaria
+1146;812;moto
+1147;812;auto
+1148;813;auto
+1149;813;moto
+1150;814;auto
+1151;814;vehiculo de carga
+1152;814;moto
+1153;815;auto
+1154;815;vehiculo de carga
+1155;816;moto
+1156;816;auto
+1157;818;auto
+1158;818;moto
+1159;818;no es necesaria
+1160;820;moto
+1161;820;auto
+1162;823;moto
+1163;823;no es necesaria
+1164;823;vehiculo de carga

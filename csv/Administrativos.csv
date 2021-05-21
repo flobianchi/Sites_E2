@@ -1,0 +1,278 @@
+id_personal;id_unidad;nombre;rut;sexo;edad;clasificacion
+5;11;Frederic Brooks;37630974-6;mujer;44;ti
+7;12;Jareth Castillo;45631604-2;mujer;52;ti
+10;4;Clayton Golden;29728267-0;mujer;27;administracion
+13;56;Wyatt Stephens;61662429-6;mujer;33;vendedor
+16;42;Marianne Mays;63688364-6;mujer;47;asistente de aseo
+17;51;Florrie Pacheco;95185947-8;hombre;29;vendedor
+19;54;Clay Huynh;54106148-7;mujer;18;vendedor
+22;3;Tyrese Bishop;54178021-1;mujer;29;administracion
+27;3;Jasper Harvey;32359787-1;mujer;54;vendedor
+30;29;Francis Luna;35776394-0;mujer;46;ti
+31;9;Mahi Vargas;44171043-7;hombre;28;administracion
+35;44;Roisin Contreras;61514910-1;mujer;22;administracion
+41;47;Jordi Thorne;59089616-0;mujer;57;asistente de aseo
+45;56;Jill Baker;40588157-8;hombre;57;ti
+46;38;Jad Mercer;62820832-8;mujer;20;administracion
+47;25;Darla Childs;61995722-9;hombre;21;administracion
+48;47;Manav Hampton;60211995-5;hombre;34;ti
+50;27;Laith Paul;74357811-2;mujer;49;asistente de aseo
+54;54;Teddie Leal;15614052-k;mujer;34;asistente de aseo
+56;32;Alasdair Lucas;27852199-0;hombre;56;vendedor
+57;8;Sabah Skinner;74895468-6;hombre;46;vendedor
+60;6;Reginald Tanner;45717384-9;mujer;36;ti
+62;25;Timothy Senior;22274441-5;mujer;29;asistente de aseo
+64;48;Codie Sampson;25342278-5;mujer;24;administracion
+66;2;Ethel Colon;65855526-k;hombre;50;asistente de aseo
+68;55;Afsana Roth;31690607-9;hombre;21;asistente de aseo
+69;34;Loki Snyder;13938471-7;mujer;45;administracion
+70;45;Milena Bright;12957899-8;hombre;37;vendedor
+74;54;Awais Berger;46187096-1;mujer;39;vendedor
+76;50;Charlene Chester;79446327-1;hombre;38;administracion
+77;18;Simone Akhtar;18969557-8;hombre;53;administracion
+78;17;Andrea Chen;21840388-3;hombre;51;ti
+80;36;Arwen Flores;47673879-2;hombre;34;ti
+81;21;Kimora Ridley;33461543-k;mujer;28;administracion
+83;28;Jeff Lane;69705129-5;hombre;21;vendedor
+87;34;Agnes Singleton;43776217-1;mujer;34;asistente de aseo
+88;39;Florrie Drew;59445067-1;hombre;55;administracion
+90;32;Julia Moses;77941465-5;hombre;39;vendedor
+92;24;Caprice Davies;60517573-2;hombre;22;administracion
+94;6;Herbert Hawes;46491043-3;mujer;19;vendedor
+98;12;Shay Glass;38405094-8;mujer;45;vendedor
+105;52;Noah Avalos;79625227-8;mujer;31;ti
+107;50;Mcauley Robles;34352032-8;mujer;48;ti
+108;0;Stanley Soto;58748811-6;mujer;26;vendedor
+111;20;Anaya Rice;62832139-6;hombre;52;asistente de aseo
+112;34;Teddy Henderson;11091024-k;hombre;51;ti
+113;27;Naya Melia;29676675-5;mujer;59;administracion
+117;43;Tyrique Healy;29989393-6;mujer;22;ti
+121;46;Kimberly Mason;97632703-9;hombre;20;vendedor
+134;37;Tevin Walter;34882918-1;mujer;46;asistente de aseo
+135;55;Mila Rhodes;49166815-6;hombre;58;vendedor
+138;7;Nabila Byers;30854312-9;mujer;25;vendedor
+139;15;Verity Murray;60987426-0;hombre;47;administracion
+143;52;Casper Pruitt;11554909-k;mujer;47;asistente de aseo
+147;1;Nyla Paul;91059844-9;mujer;42;vendedor
+150;30;Rebeca Park;32628385-1;hombre;41;vendedor
+152;49;Makayla Crowther;25368817-3;mujer;20;asistente de aseo
+155;12;Jibril Davie;99748016-3;hombre;32;administracion
+162;37;Amelia-Rose Nguyen;22479749-4;hombre;45;administracion
+163;48;Callie Collier;80843691-4;hombre;29;ti
+164;51;Owain Rollins;28738037-2;hombre;46;vendedor
+166;40;Jean Cullen;20032612-1;hombre;54;administracion
+170;0;Bridget Mckee;10669832-5;hombre;56;vendedor
+171;17;Kofi Mcdermott;22532060-8;hombre;37;administracion
+175;5;Mared Pineda;17459269-1;hombre;60;administracion
+176;54;Danica Hutchings;48433213-4;mujer;23;asistente de aseo
+180;48;Imaad Knox;35785969-7;mujer;49;ti
+182;41;Heena Valenzuela;60854678-2;mujer;55;administracion
+186;5;Tyrell Clay;23970806-4;hombre;47;ti
+190;20;Angus Fleming;23648509-9;hombre;29;administracion
+193;20;Sienna Neale;58303600-8;hombre;22;ti
+195;37;Julie Hart;23819538-1;hombre;48;vendedor
+197;28;Adela Tillman;86164302-6;hombre;45;ti
+201;37;Rehaan Dunlop;70116705-8;mujer;25;vendedor
+202;32;Dane Sharma;30928102-0;mujer;42;ti
+203;19;Nakita Meza;33466037-0;mujer;52;ti
+204;12;Daria Ellison;63483183-5;hombre;49;vendedor
+208;55;Kiran Hanna;88697741-7;mujer;36;vendedor
+209;5;Krista Head;67414624-8;mujer;33;ti
+211;6;Conrad Buchanan;85122660-5;mujer;36;vendedor
+212;37;Arif Thorne;56485501-4;mujer;33;asistente de aseo
+215;45;Adyan Wicks;77214559-4;hombre;52;asistente de aseo
+218;30;Fred Salter;92898031-6;mujer;31;asistente de aseo
+223;31;Jorgie Power;58844715-4;mujer;23;ti
+225;16;Mai Regan;80698616-k;hombre;35;asistente de aseo
+226;52;Abdur Heath;40127235-6;mujer;41;ti
+229;30;Christopher Macleod;51433500-1;hombre;51;vendedor
+231;12;Myles Nash;58976828-0;hombre;52;ti
+234;42;Lester Contreras;71162268-3;mujer;51;ti
+237;25;Madeleine Henson;82319208-8;mujer;21;vendedor
+241;53;Naima Perez;89265324-0;hombre;40;ti
+244;0;Natalya Morgan;37981852-8;hombre;34;administracion
+249;22;Kyle Aguirre;53783913-9;hombre;30;vendedor
+252;30;Finnian Waller;45751112-4;hombre;18;administracion
+255;46;Gage Stafford;11798235-1;hombre;59;ti
+256;55;Yahya York;41091494-8;hombre;21;ti
+260;7;Anam Mcarthur;12166206-k;hombre;44;ti
+261;10;Georga Duffy;11557739-5;mujer;47;asistente de aseo
+263;13;Santino Robson;54475883-7;mujer;23;asistente de aseo
+271;1;Alistair Sanford;70012917-9;mujer;59;vendedor
+272;32;Libbie Camacho;87859472-k;mujer;59;asistente de aseo
+278;44;Alexis Kearney;30364676-0;hombre;22;vendedor
+279;45;Arnav Shannon;82376572-k;hombre;54;asistente de aseo
+280;43;Evelina Dickerson;13068977-9;hombre;46;ti
+290;48;Jade Thatcher;47981838-k;hombre;30;asistente de aseo
+292;19;Cleo Goodwin;29950437-9;hombre;49;ti
+293;7;Austin Riddle;14240870-8;hombre;24;vendedor
+294;0;Ines Fountain;59150917-9;hombre;34;ti
+295;6;Keeva Allan;60158787-4;hombre;37;administracion
+297;10;Lara Mcmahon;20672410-2;mujer;44;ti
+301;42;Hina Oneal;42679613-9;hombre;18;administracion
+303;32;Kory Hays;17286061-3;mujer;29;asistente de aseo
+305;55;Ranveer Cope;58963604-k;mujer;23;administracion
+307;34;Aran Osborn;85778387-5;mujer;57;vendedor
+308;15;Arfa Crouch;88104231-2;mujer;54;asistente de aseo
+310;24;Annabelle Hester;33874298-3;mujer;41;vendedor
+312;5;Gregg Douglas;18902520-3;mujer;55;ti
+319;12;Kinga Redmond;78459862-4;hombre;22;ti
+320;33;Henri Barrett;26113418-7;hombre;40;administracion
+322;34;Elleanor Kane;86339917-3;mujer;23;vendedor
+325;47;Ava Gilbert;81203114-7;mujer;21;asistente de aseo
+326;25;Haris Humphreys;38072383-2;hombre;28;asistente de aseo
+330;32;Gerrard Ho;22150901-3;mujer;47;vendedor
+337;38;Catriona Cresswell;83640016-k;mujer;36;vendedor
+338;8;Mysha Firth;77354291-0;hombre;22;ti
+341;1;Evie-Grace Middleton;36706688-1;mujer;47;ti
+343;3;Bridie Stanley;15369176-2;hombre;51;ti
+348;47;Sara Horn;27143992-k;mujer;33;asistente de aseo
+349;6;Reiss Lutz;19410523-1;hombre;29;asistente de aseo
+352;54;Rhydian Keeling;44372095-2;mujer;22;asistente de aseo
+359;35;Nina Holding;17159919-9;mujer;36;asistente de aseo
+360;50;Hiba Clemons;44822766-9;hombre;43;asistente de aseo
+364;47;Keanan Cordova;90739234-1;mujer;33;vendedor
+370;35;Kailum Caldwell;81560843-7;mujer;52;ti
+373;14;Yisroel Wheatley;22566169-3;mujer;59;vendedor
+374;41;Tyler-Jay Forster;76563311-7;mujer;35;ti
+386;10;Jacques Carter;75910499-4;mujer;41;administracion
+387;30;Georga Salinas;85055980-5;mujer;51;ti
+401;42;Sheila Gilmore;57931953-4;hombre;51;asistente de aseo
+405;45;Laith Zimmerman;38235761-2;mujer;22;asistente de aseo
+406;2;Teodor Lim;65731455-2;hombre;31;vendedor
+408;48;Maiya Villa;20789297-1;mujer;48;vendedor
+413;30;Erika Greene;25497638-5;mujer;49;ti
+417;18;Madeleine Stokes;82993651-8;mujer;32;vendedor
+418;1;Vikki Partridge;44380500-1;mujer;19;administracion
+419;54;Arianna Vazquez;50319391-4;mujer;57;asistente de aseo
+420;28;Campbell Shepherd;81602032-8;hombre;51;vendedor
+426;47;Sienna Weaver;37839960-2;hombre;49;ti
+427;1;Evelyn Duran;31845287-3;hombre;51;vendedor
+428;30;Ava-Mai Spooner;15451762-6;mujer;40;vendedor
+431;34;Anish Coleman;46188032-0;hombre;23;asistente de aseo
+433;40;Brandon Rodrigues;46033111-0;mujer;55;vendedor
+434;45;Allison Costa;83029887-8;mujer;38;administracion
+438;47;Aanya Foster;95759065-9;hombre;31;ti
+439;49;Mylah Long;25327705-k;mujer;50;administracion
+440;47;Kayden Delarosa;82693313-5;hombre;34;asistente de aseo
+443;41;Jake Hatfield;64501886-9;hombre;19;ti
+447;24;Nathaniel Mcgill;54593722-0;hombre;54;asistente de aseo
+449;11;Jiya Irvine;16689945-1;hombre;20;vendedor
+450;33;Dylan Nicholls;92951996-5;hombre;41;vendedor
+451;25;Sameera Robson;71180222-3;hombre;30;asistente de aseo
+453;56;Artur Stokes;54245196-3;mujer;30;asistente de aseo
+454;30;Patrik Dodson;52650167-5;mujer;45;asistente de aseo
+457;46;Luther Simon;67314332-6;mujer;21;administracion
+461;44;Kurt Sutton;28370900-0;hombre;52;vendedor
+468;38;Sebastien Petersen;89213188-0;mujer;53;ti
+469;30;Shane Kelly;34823992-9;mujer;43;asistente de aseo
+471;35;Anees Morse;66284985-5;mujer;36;administracion
+473;50;Shahzaib Espinoza;34975310-3;mujer;50;ti
+480;53;Sabiha O'Quinn;93129167-k;mujer;60;vendedor
+481;10;Tayyibah Mckinney;18067050-5;mujer;50;asistente de aseo
+482;24;Jibril Hall;89118524-3;mujer;28;vendedor
+489;2;Natalya Thorpe;22783728-4;hombre;26;ti
+491;1;Zakariyah Williamson;60038263-2;mujer;24;asistente de aseo
+492;26;Nayla Bates;72611524-9;mujer;55;ti
+494;24;Pia Short;14309109-0;hombre;52;ti
+498;16;Montgomery Cornish;13370165-6;hombre;19;asistente de aseo
+499;51;Kingsley Goddard;73418283-4;mujer;19;asistente de aseo
+500;41;Chance Barlow;59060940-4;hombre;25;asistente de aseo
+501;52;Chelsy Whitley;67170407-k;mujer;27;asistente de aseo
+504;18;Bjorn Salazar;97754557-9;mujer;35;asistente de aseo
+510;49;Derrick Fritz;34996262-4;mujer;52;asistente de aseo
+522;51;Suranne Byrd;36600416-5;hombre;46;asistente de aseo
+527;25;April Peters;81168161-k;hombre;50;asistente de aseo
+528;1;Akash Kendall;19533896-5;hombre;35;vendedor
+529;13;Lily-Anne Barnes;25309713-2;hombre;54;asistente de aseo
+532;47;Zachary Marks;64268937-1;mujer;19;administracion
+533;28;Ffion Allison;70202613-k;hombre;38;vendedor
+538;14;Brandan Mcdougall;48630167-8;mujer;42;vendedor
+541;29;Maleeha Rice;65809271-5;mujer;60;vendedor
+544;22;Asma Brook;35806868-5;mujer;32;administracion
+545;54;Danyl James;96332059-0;mujer;31;administracion
+547;31;Abdi Mccoy;97166191-7;hombre;24;administracion
+549;18;Willis Herbert;97985609-1;mujer;18;ti
+558;37;Shanaya Hewitt;45644100-9;mujer;50;asistente de aseo
+565;47;Trey Saunders;23494123-2;hombre;57;ti
+569;14;Mason Ritter;65175008-3;hombre;24;administracion
+571;14;Jana Byrd;22825105-4;hombre;37;vendedor
+572;2;Orlaith Jones;36918308-7;hombre;30;administracion
+580;40;Amari Stubbs;88726486-4;hombre;24;asistente de aseo
+583;53;Margaux Cleveland;44973013-5;hombre;56;administracion
+585;44;Mariah Wyatt;58038177-4;hombre;27;vendedor
+587;26;Toyah Wolfe;83605517-9;hombre;24;asistente de aseo
+588;54;Lily-Mae O'Quinn;68147125-1;hombre;58;vendedor
+589;1;Arissa Webb;54363208-2;hombre;49;vendedor
+594;40;Saqib Mill;11784418-8;hombre;57;ti
+597;2;Keaton Mccall;54480341-7;hombre;50;ti
+604;42;Yousef Rutledge;74748755-3;mujer;34;asistente de aseo
+607;8;Adele Douglas;42814101-6;hombre;53;administracion
+613;8;Shelbie Moreno;12885071-6;hombre;46;vendedor
+622;44;Aryaan Fox;88151779-5;hombre;52;vendedor
+623;11;Ashlyn Rossi;81783289-k;mujer;32;asistente de aseo
+626;25;Tye Corrigan;28273728-0;hombre;47;vendedor
+627;54;Maksim Mcmahon;97355372-0;hombre;27;vendedor
+637;56;Kristen Gallegos;52778909-5;hombre;59;administracion
+638;18;Roger Woodcock;27161682-1;mujer;38;vendedor
+647;17;Jadon Slater;99347364-2;hombre;20;asistente de aseo
+648;31;Maude Arnold;59129614-0;hombre;42;vendedor
+649;32;Eleni Hansen;34349789-k;hombre;33;vendedor
+650;45;Asher Valentine;20774234-1;mujer;25;asistente de aseo
+651;13;Tevin Wright;89671041-9;mujer;24;ti
+656;52;Calista Cummings;17341224-k;mujer;53;administracion
+659;40;Ella-May Hayes;48333719-1;mujer;21;vendedor
+662;43;Leigha Chavez;58812264-6;hombre;36;administracion
+666;28;Fenella Schaefer;26240285-1;hombre;33;asistente de aseo
+668;9;Marlon Lott;29381516-k;hombre;39;asistente de aseo
+675;35;Elissa Schmidt;60926655-4;mujer;53;ti
+684;5;Dulcie Shelton;88413708-k;hombre;43;vendedor
+685;22;Akeem Hensley;84891139-9;mujer;33;vendedor
+688;28;Edna Harper;14156767-5;mujer;29;administracion
+696;11;Chandni Stanton;11904025-6;mujer;50;ti
+713;23;Che Partridge;16943787-4;mujer;39;vendedor
+714;32;Miyah Rhodes;59537115-5;mujer;49;administracion
+719;20;Vickie Clifford;10927357-0;mujer;19;asistente de aseo
+721;34;Payton Arroyo;63216586-2;hombre;24;vendedor
+724;19;Jax Hester;54676049-9;hombre;24;vendedor
+727;51;Tayyib Davila;47121914-2;mujer;47;asistente de aseo
+729;10;Layton Hodge;73026642-1;mujer;20;ti
+730;16;Francis Kerr;34414978-k;hombre;40;asistente de aseo
+732;20;Akeem Odonnell;21016824-9;hombre;20;asistente de aseo
+735;38;Danyal Steele;59749734-2;mujer;49;vendedor
+739;19;Roosevelt Charlton;70433997-6;mujer;33;ti
+740;17;Spencer Tran;48553208-0;mujer;24;vendedor
+743;56;Princess Guest;73454838-3;mujer;56;ti
+746;19;Kirandeep Riggs;73842540-5;mujer;25;ti
+747;1;Asmaa Allman;58648727-2;hombre;44;vendedor
+748;51;Kenzo Beech;95656123-k;mujer;28;administracion
+750;19;Jorgie Rowland;81428035-7;mujer;44;ti
+751;9;Harvie Bonilla;46805723-9;mujer;35;asistente de aseo
+752;51;Samir Daugherty;96371883-7;mujer;33;ti
+754;25;Hamaad Barajas;17611254-9;hombre;50;ti
+755;5;Mandeep Vazquez;56197957-k;hombre;20;vendedor
+764;16;Billie Kaur;54546935-9;mujer;38;administracion
+765;29;Mimi Harris;48269008-4;hombre;49;administracion
+766;51;Kierran Stanton;50942616-3;hombre;27;ti
+767;49;Isabell Goodwin;84327091-3;hombre;40;asistente de aseo
+769;23;Skye Gray;48007583-8;mujer;49;administracion
+770;46;Lemar Cullen;14585428-8;hombre;28;ti
+771;27;Maariya Enriquez;25450277-4;hombre;30;ti
+774;26;Mea Dorsey;95199785-4;hombre;37;administracion
+775;27;Ammaar Carty;13947632-8;hombre;48;asistente de aseo
+781;11;Faheem Bains;16697747-9;hombre;42;administracion
+782;21;Kaeden Knapp;37285914-8;mujer;53;asistente de aseo
+784;36;Ilayda Whitehouse;11118739-8;mujer;29;administracion
+786;13;Jonny Newton;33461512-k;mujer;50;administracion
+788;48;Frances Corrigan;12920124-k;mujer;25;vendedor
+789;31;Yunus Galloway;15955355-8;mujer;20;asistente de aseo
+795;10;Maia Glover;52792841-9;mujer;22;ti
+796;7;Aryan Hastings;82533150-6;hombre;25;administracion
+806;17;Amba Crane;77484278-0;mujer;36;vendedor
+807;41;Isaac Fleming;52258791-5;mujer;20;asistente de aseo
+808;3;Haider Hines;24927693-6;hombre;19;ti
+817;19;Brandy Ponce;25696685-9;mujer;41;administracion
+819;51;Musa Myers;18984900-1;hombre;27;vendedor
+821;50;Ashlyn Finch;97163657-2;mujer;31;asistente de aseo
+822;44;Mikayla Hume;42714709-6;mujer;30;vendedor
+824;17;Rahul Finley;50814284-6;hombre;36;asistente de aseo

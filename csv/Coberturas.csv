@@ -1,0 +1,283 @@
+id;id_unidad;comuna_cobertura
+0;0;la serena
+1;0;valparaiso
+2;0;arica
+3;1;valparaiso
+4;1;arica
+5;2;arica
+6;2;la ligua
+7;2;valparaiso
+8;2;providencia
+9;2;la serena
+10;3;arica
+11;3;san joaquin
+12;3;providencia
+13;3;punta arenas
+14;3;coquimbo
+15;3;la ligua
+16;3;la serena
+17;3;santiago
+18;4;santiago
+19;4;la ligua
+20;4;arica
+21;4;valparaiso
+22;4;san joaquin
+23;4;coquimbo
+24;5;buin
+25;5;la ligua
+26;5;santiago
+27;5;san joaquin
+28;5;punta arenas
+29;5;arica
+30;5;valparaiso
+31;6;arica
+32;6;coquimbo
+33;6;la serena
+34;6;san joaquin
+35;6;valparaiso
+36;6;santiago
+37;7;coquimbo
+38;7;santiago
+39;7;buin
+40;7;arica
+41;7;valparaiso
+42;7;punta arenas
+43;7;la ligua
+44;7;san joaquin
+45;8;santiago
+46;8;arica
+47;8;buin
+48;8;san joaquin
+49;8;providencia
+50;9;san joaquin
+51;9;la serena
+52;9;la ligua
+53;9;arica
+54;10;san joaquin
+55;10;arica
+56;10;valparaiso
+57;10;buin
+58;10;providencia
+59;10;punta arenas
+60;10;la serena
+61;11;coquimbo
+62;11;punta arenas
+63;11;arica
+64;12;santiago
+65;12;valparaiso
+66;12;la ligua
+67;12;arica
+68;13;providencia
+69;13;la ligua
+70;13;arica
+71;14;la serena
+72;14;valparaiso
+73;14;la ligua
+74;14;arica
+75;14;san joaquin
+76;14;coquimbo
+77;15;arica
+78;15;valparaiso
+79;15;la serena
+80;15;buin
+81;15;providencia
+82;15;santiago
+83;16;providencia
+84;16;arica
+85;16;san joaquin
+86;16;buin
+87;16;la serena
+88;16;la ligua
+89;17;punta arenas
+90;17;buin
+91;17;la serena
+92;17;arica
+93;17;santiago
+94;17;valparaiso
+95;18;arica
+96;18;providencia
+97;18;santiago
+98;18;valparaiso
+99;19;buin
+100;19;la ligua
+101;19;la serena
+102;19;arica
+103;19;coquimbo
+104;19;providencia
+105;20;providencia
+106;20;la serena
+107;20;santiago
+108;20;arica
+109;20;coquimbo
+110;20;san joaquin
+111;20;la ligua
+112;20;punta arenas
+113;21;santiago
+114;21;buin
+115;21;la serena
+116;21;arica
+117;21;la ligua
+118;21;punta arenas
+119;21;coquimbo
+120;22;la ligua
+121;22;punta arenas
+122;22;buin
+123;22;santiago
+124;22;arica
+125;22;la serena
+126;22;coquimbo
+127;22;providencia
+128;23;coquimbo
+129;23;santiago
+130;23;la ligua
+131;23;punta arenas
+132;23;la serena
+133;23;arica
+134;23;valparaiso
+135;23;providencia
+136;24;buin
+137;24;arica
+138;24;la serena
+139;25;la serena
+140;25;providencia
+141;25;arica
+142;26;providencia
+143;26;arica
+144;26;santiago
+145;27;arica
+146;28;arica
+147;28;la ligua
+148;28;valparaiso
+149;28;coquimbo
+150;28;buin
+151;29;san joaquin
+152;29;punta arenas
+153;29;arica
+154;29;santiago
+155;30;punta arenas
+156;30;buin
+157;30;la serena
+158;30;coquimbo
+159;30;arica
+160;30;santiago
+161;31;la ligua
+162;31;valparaiso
+163;31;santiago
+164;31;arica
+165;32;providencia
+166;32;santiago
+167;32;valparaiso
+168;32;punta arenas
+169;32;arica
+170;32;la serena
+171;32;buin
+172;33;valparaiso
+173;33;buin
+174;33;arica
+175;34;buin
+176;34;coquimbo
+177;34;arica
+178;34;valparaiso
+179;34;providencia
+180;35;valparaiso
+181;35;arica
+182;35;providencia
+183;35;la serena
+184;35;coquimbo
+185;36;valparaiso
+186;36;santiago
+187;36;la ligua
+188;36;la serena
+189;36;arica
+190;36;buin
+191;37;la serena
+192;37;arica
+193;37;santiago
+194;38;arica
+195;38;providencia
+196;38;la serena
+197;38;santiago
+198;39;coquimbo
+199;39;valparaiso
+200;39;providencia
+201;39;punta arenas
+202;39;buin
+203;39;la serena
+204;39;arica
+205;39;santiago
+206;40;san joaquin
+207;40;coquimbo
+208;40;arica
+209;40;santiago
+210;40;la serena
+211;40;buin
+212;40;providencia
+213;40;punta arenas
+214;41;arica
+215;41;valparaiso
+216;41;la ligua
+217;41;providencia
+218;42;arica
+219;42;santiago
+220;42;buin
+221;43;arica
+222;43;valparaiso
+223;44;valparaiso
+224;44;buin
+225;44;coquimbo
+226;44;arica
+227;44;punta arenas
+228;44;la ligua
+229;45;la serena
+230;45;coquimbo
+231;45;arica
+232;46;providencia
+233;46;santiago
+234;46;arica
+235;46;valparaiso
+236;46;coquimbo
+237;47;arica
+238;47;providencia
+239;47;buin
+240;47;la serena
+241;48;la ligua
+242;48;coquimbo
+243;48;buin
+244;48;arica
+245;48;san joaquin
+246;49;arica
+247;49;valparaiso
+248;49;santiago
+249;49;coquimbo
+250;50;arica
+251;50;valparaiso
+252;50;providencia
+253;51;providencia
+254;51;valparaiso
+255;51;punta arenas
+256;51;arica
+257;51;coquimbo
+258;52;punta arenas
+259;52;santiago
+260;52;la serena
+261;52;arica
+262;53;coquimbo
+263;53;buin
+264;53;arica
+265;53;punta arenas
+266;53;valparaiso
+267;53;san joaquin
+268;54;arica
+269;54;la ligua
+270;54;santiago
+271;54;valparaiso
+272;54;providencia
+273;54;coquimbo
+274;55;arica
+275;55;valparaiso
+276;55;providencia
+277;56;la serena
+278;56;providencia
+279;56;arica
+280;56;coquimbo
+281;56;buin
