@@ -6,7 +6,7 @@
   require("../config/conexion.php"); #Llama a conexión, crea el objeto PDO y obtiene la variable $db
 
   $var = $_POST["comuna_elegida"];
-  $query = "SELECT * FROM Vehiculos natural join Unidades natural join Direcciones AS vud WHERE comuna LIKE comuna_elegida='$var';";
+  $query = "SELECT * FROM Vehiculos natural join Unidades natural join Direcciones AS vud WHERE comuna_elegida='$var';";
   $result = $db -> prepare($query);
   $result -> execute();
   $vehiculos = $result -> fetchAll(); #Obtiene todos los resultados de la consulta en forma de un arreglo
