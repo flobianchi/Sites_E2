@@ -19,23 +19,20 @@
   <br>
 
   <!-- Consulta 2 -->
-  <!--
-  <h3 align="center"> Ingrese una comuna. Muestre todos los veh ́ıculos de las unidades ubicadas enesa comuna.</h3>
+  
+  <h3 align="center"> Ingrese una comuna. Muestre todos los vehiculos de las unidades ubicadas enesa comuna.</h3>
 
-  <form align="center" action="consultas/consulta_tipo_nombre.php" method="post">
-    Tipo:
-    <input type="text" name="tipo_elegido">
+  <form align="center" action="consultas/consulta_vehiculos.php" method="post">
+    Comuna:
+    <input type="text" name="comuna_elegida">
     <br/>
-    Nombre:
-    <input type="text" name="nombre_pokemon">
-    <br/><br/>
     <input type="submit" value="Buscar">
   </form>
   
   <br>
   <br>
   <br>
-
+<!--
   <h3 align="center"> ¿Quieres buscar un Pokemón por su ID?</h3>
 
   <form align="center" action="consultas/consulta_stats.php" method="post">
