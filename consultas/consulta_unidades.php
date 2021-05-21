@@ -6,7 +6,7 @@
   #Llama a conexión, crea el objeto PDO y obtiene la variable $db
   require("../config/conexion.php");
 
- 	$query = "SELECT DISTINCT id_unidad, nombre_direccion, comuna FROM Unidades NATURAL JOIN Direcciones ORDER BY comuna, direccion;";
+ 	$query = "SELECT DISTINCT nombre_direccion, comuna FROM Unidades NATURAL JOIN Direcciones ORDER BY comuna, direccion;";
 	$result = $db -> prepare($query);
 	$result -> execute();
 	$unidades = $result -> fetchAll();
@@ -21,7 +21,7 @@
     </tr>
   <?php
 	foreach ($unidades as $unidad) {
-  		echo "<tr><td>$unidad[0]</td><td>$unidad[1]</td> <td>$unidad[2]</td> </tr>";
+  		echo "<tr><td>$unidad[0]</td><td>$unidad[1]</td> </tr>";
 	}
   ?>
 	</table>
