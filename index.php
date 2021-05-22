@@ -24,7 +24,6 @@
   <form align="center" action="consultas/consulta2.php" method="post">
     Comuna:
     <input type="text" name="comuna_elegida">
-    <br/>
     <input type="submit" value="Buscar">
   </form>
   
@@ -38,7 +37,6 @@
   <form align="center" action="consultas/consulta3.php" method="post">
     Comuna:
     <input type="text" name="comuna_elegida">
-    <br/>
     Año:
     <input type="text" name="select_ano">
     <br/>
