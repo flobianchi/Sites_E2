@@ -28,7 +28,7 @@ button {
 }
 
 h1 {
-    color: rgb(98, 0, 128);
+    color:#c526a3;
     font-style: bold;
     font-family: Ubuntu;
 }
@@ -44,7 +44,7 @@ body {
     width: 100%;
     font-size: 20px;
     text-align: center;
-    background-color: #54b4ec;
+    background-color: #80c5ec;
     text-align: center;
     font-family: Ubuntu;
 }
