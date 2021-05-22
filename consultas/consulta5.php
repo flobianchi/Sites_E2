@@ -10,7 +10,7 @@
   $query = "SELECT * FROM Coberturas NATURAL JOIN Administrativos AS ca 
   WHERE calificacion = 'administracion' 
   AND comuna_cobertura LIKE LOWER('%$comuna1%') 
-  INTERSECT SELECT * FROM Coberturas MATURAL JOIN Administrativos AS ca 
+  INTERSECT SELECT * FROM Coberturas NATURAL JOIN Administrativos AS ca 
   WHERE calificacion = 'administracion' 
   AND comuna_cobertura LIKE LOWER('%$comuna2%');";
   $result = $db -> prepare($query);
