@@ -1,8 +1,8 @@
 <?php include('templates/header.html');   ?>
 
 <body>
-  <h1 align="center">Entrega 2 by Flo y Viki </h1>
-  <h3 align="center">Consultas Empresa Despachos </h3>
+  <h1 align="center">Consultas Empresa Despachos</h1>
+  <h3 align="center">Entrega 2 by Flo y Viki </h3>
   <p style="text-align:center;">Aquí podrás encontrar información sobre las unidades de la empresa de despachos más cool.</p>
 
   <br>
