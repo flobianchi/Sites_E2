@@ -7,10 +7,10 @@
 
   $comuna1 = $_POST["comuna1_elegida"];
   $comuna2 = $_POST["comuna2_elegida"];
-  $query = "SELECT * FROM Coberturas NATURAL JOIN Administrativos AS ca 
+  $query = "SELECT nombre, rut FROM Coberturas NATURAL JOIN Administrativos AS ca 
   WHERE calificacion = 'administracion' 
   AND comuna_cobertura LIKE LOWER('%$comuna1%') 
-  INTERSECT SELECT * FROM Coberturas NATURAL JOIN Administrativos AS ca 
+  INTERSECT SELECT nombre, rut FROM Coberturas NATURAL JOIN Administrativos AS ca 
   WHERE calificacion = 'administracion' 
   AND comuna_cobertura LIKE LOWER('%$comuna2%');";
   $result = $db -> prepare($query);
