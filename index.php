@@ -45,10 +45,24 @@
 
 <!-- Consulta 4 -->
 <h3 align="center">Ingrese un tipo de vehículo y selecciones dos números. Muestre todos los despachos realizados por un vehiculo del tipo ingresado, y cuyo repartidor tiene una edad entre el rando seleccionado.</h3>
-<form align="center" action="consultas/consulta4.php" method="post">
-  Tipo Vehiculo:
-  <input type="text" name="tipo_vehiculo">
-  <br/>
+<?php
+  #Primero obtenemos todos los tipos de pokemones
+  require("config/conexion.php");
+  $result = $db -> prepare("SELECT DISTINCT tipo FROM Vehiculos;");
+  $result -> execute();
+  $dataCollected = $result -> fetchAll();
+  ?>
+
+  <form align="center" action="consultas/consulta4.php" method="post">
+    Tipo Vehiculo:
+    <select name="tipo_vehiculo">
+      <?php
+      #Para cada tipo agregamos el tag <option value=value_of_param> visible_value </option>
+      foreach ($dataCollected as $d) {
+        echo "<option value=$d[0]>$d[0]</option>";
+      }
+      ?>
+    </select>
   Edad Mínima:
   <input type="text" name="edad1">
   <br/>
@@ -96,8 +110,8 @@
       }
       ?>
     </select>
-    <br><br>
-  <input type="submit" value="Buscar por tipo de vehiculo">
+    <br>
+  <input type="submit" value="Buscar">
 </form>
 
 <br>
