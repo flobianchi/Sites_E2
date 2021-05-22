@@ -2,7 +2,7 @@
 
 <body>
   <h1 align="center">Entrega 2 by Flo y Viki </h1>
-  <h2 align="center">Consultas Empresa Despachos </h2>
+  <h3 align="center">Consultas Empresa Despachos </h3>
   <p style="text-align:center;">Aquí podrás encontrar información sobre las unidades de la empresa de despachos más cool.</p>
 
   <br>
@@ -77,12 +77,27 @@
 <br>
 
 <!-- Consulta 6 -->
-<h3 align="center">Encuentre la unidad que maneja más vehiculos del tipo seleccionado.</h3>
-<form align="center" action="consultas/consulta6.php" method="post">
-  Tipo Vehiculo:
-  <input type="text" name="tipo_vehiculo">
-  <br/>
-  <input type="submit" value="Buscar">
+<h3 align="center">Ingrese un tipo de vehiculo. Encuentre la unidad que maneja más vehiculos de ese tipo.</h3>
+<?php
+  #Primero obtenemos todos los tipos de pokemones
+  require("config/conexion.php");
+  $result = $db -> prepare("SELECT DISTINCT tipo FROM Vehiculos;");
+  $result -> execute();
+  $dataCollected = $result -> fetchAll();
+  ?>
+
+  <form align="center" action="consultas/consulta6.php" method="post">
+    Tipo Vehiculo:
+    <select name="tipo_vehiculo">
+      <?php
+      #Para cada tipo agregamos el tag <option value=value_of_param> visible_value </option>
+      foreach ($dataCollected as $d) {
+        echo "<option value=$d[0]>$d[0]</option>";
+      }
+      ?>
+    </select>
+    <br><br>
+  <input type="submit" value="Buscar por tipo de vehiculo">
 </form>
 
 <br>
