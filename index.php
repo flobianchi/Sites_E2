@@ -63,6 +63,7 @@
       }
       ?>
     </select>
+    <br/>
   Edad Mínima:
   <input type="text" name="edad1">
   <br/>
