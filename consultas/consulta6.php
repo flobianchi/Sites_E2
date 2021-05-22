@@ -7,11 +7,11 @@
 
   $tipo = $_POST["tipo_vehiculo"];
   $query = "SELECT id_unidad FROM Unidades NATURAL JOIN Vehiculos AS uv
-   WHERE tipo=$tipo
+   WHERE tipo='$tipo'
    GROUP BY id_unidad HAVING COUNT(*) = (
      SELECT MAX(cantidad) FROM (
        SELECT id_unidad, COUNT(*) AS cantidad FROM Unidades NATURAL JOIN Vehiculos AS uv
-       WHERE tipo=$tipo
+       WHERE tipo= '$tipo'
        GROUP BY id_unidad) AS t );";
   $result = $db -> prepare($query);
   $result -> execute();
