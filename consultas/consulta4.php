@@ -10,7 +10,9 @@
   $edad1 = intval($edad1);
   $edad2 = $_POST["edad2"];
   $edad2 = intval($edad2);
-  $query = "SELECT * FROM Despachos NATURAL JOIN Vehiculos NATURAL JOIN Repartidores AS dvr WHERE id_personal_repartidor = id_personal AND tipo LIKE LOWER('%$tipo%') AND edad BETWEEN $edad1 AND $edad2;";
+  $query = "SELECT * FROM Despachos NATURAL JOIN Vehiculos NATURAL JOIN Repartidores AS dvr
+   WHERE id_personal_repartidor = id_personal AND tipo LIKE LOWER('%$tipo%')
+   AND edad BETWEEN $edad1 AND $edad2;";
   $result = $db -> prepare($query);
   $result -> execute();
   $despachos = $result -> fetchAll(); #Obtiene todos los resultados de la consulta en forma de un arreglo

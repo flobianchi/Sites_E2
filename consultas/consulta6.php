@@ -6,7 +6,11 @@
   require("../config/conexion.php"); #Llama a conexión, crea el objeto PDO y obtiene la variable $db
 
   $tipo = $_POST["tipo_vehiculo"];
-  $query = "SELECT DISTINCT * FROM Vehiculos, Despachos, Direcciones AS vdd WHERE id_direccion_destino = id_direccion and fecha LIKE ('%$tipo%');";
+  $query = "SELECT id_unidad FROM Unidades NATURAL JOIN Vehiculos as uv
+   GROUP BY id_unidad HAVING COUNT(*) = (
+     SELECT MAX(cantidad) FROM (
+       SELECT id_unidad, COUNT(*) AS cantidad FROM Unidades NATURAL JOIN Vehiculos as uv 
+       GROUP BY id_unidad) AS t );";
   $result = $db -> prepare($query);
   $result -> execute();
   $Unidades = $result -> fetchAll(); #Obtiene todos los resultados de la consulta en forma de un arreglo

@@ -7,7 +7,10 @@
 
   $comuna = $_POST["comuna_elegida"];
   $ano = $_POST["select_ano"];
-  $query = "SELECT * FROM Vehiculos NATURAL JOIN Despachos NATURAL JOIN Direcciones AS vdd WHERE id_direccion_destino = id_direccion and fecha LIKE ('%$ano%') and comuna LIKE LOWER ('%$comuna%');";
+  $query = "SELECT * FROM Vehiculos NATURAL JOIN Despachos NATURAL JOIN Direcciones AS vdd
+   WHERE id_direccion_destino = id_direccion and fecha LIKE ('%$ano%')
+   AND comuna LIKE LOWER ('%$comuna%')
+   ORDER BY estado, categoria, tipo, patente;";
   $result = $db -> prepare($query);
   $result -> execute();
   $vehiculos = $result -> fetchAll(); #Obtiene todos los resultados de la consulta en forma de un arreglo
