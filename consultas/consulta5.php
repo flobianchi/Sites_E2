@@ -7,7 +7,12 @@
 
   $comuna1 = $_POST["comuna1_elegida"];
   $comuna2 = $_POST["comuna2_elegida"];
-  $query = "SELECT nombre, rut, count(*) FROM Coberturas natural join Administrativos AS ca WHERE calificacion = 'administracion' AND comuna_cobertura IN (LIKE LOWER ('%$comuna1%'), LIKE LOWER ('%$comuna2%')) GROUP BY nombre, rut HAVING count(*) > 1;";
+  $query = "SELECT * FROM Coberturas NATURAL JOIN Administrativos AS ca 
+  WHERE calificacion = 'administracion' 
+  AND comuna_cobertura LIKE LOWER('%$comuna1%') 
+  INTERSECT SELECT * FROM Coberturas MATURAL JOIN Administrativos AS ca 
+  WHERE calificacion = 'administracion' 
+  AND comuna_cobertura LIKE LOWER('%$comuna2%');";
   $result = $db -> prepare($query);
   $result -> execute();
   $jefes = $result -> fetchAll(); #Obtiene todos los resultados de la consulta en forma de un arreglo
@@ -20,7 +25,7 @@
     </tr>
   <?php
   foreach ($jefes as $p) {
-    echo "<tr> <td>$p[0]</td> <td>$p[1]</td></tr>";
+    echo "<tr> <td>$p[4]</td> <td>$p[5]</td></tr>";
   }
   ?>
   </table>
