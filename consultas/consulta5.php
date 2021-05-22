@@ -25,7 +25,7 @@
     </tr>
   <?php
   foreach ($jefes as $p) {
-    echo "<tr> <td>$p[4]</td> <td>$p[5]</td></tr>";
+    echo "<tr> <td>$p[0]</td> <td>$p[1]</td></tr>";
   }
   ?>
   </table>
