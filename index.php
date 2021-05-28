@@ -2,29 +2,24 @@
 
 
 
-
-
 <body>
   <h1 align="center">Consultas Empresa Despachos</h1>
   <h3 align="center">Entrega 2 by Flo y Viki </h3>
-
-  <br>
   <img src="https://i.imgur.com/AWGxKNp.png" alt="Flo Emoji" style="width:40px;height:40px;"> 
   <img src="https://i.imgur.com/i639Wpv.png" alt="Viki Emoji" style="width:40px;height:40px;">  
-  </p>
 
   <p style="text-align:center;">Aquí podrás encontrar información sobre las unidades de la empresa de despachos más cool.</p>
 
   <br>
-
-  <br>
-  <img src='https://www.mpproductividad.es/wp-content/uploads/2020/04/Grafico6-Final.gif'>
+  <img src='https://www.mpproductividad.es/wp-content/uploads/2020/04/Grafico6-Final.gif' style="width:200px;height:200px;">
   <br>
 
   <!-- Consulta 1 -->
   <h3 align="center"> Muestre las direcciones de todas las unidades de la empresa de despachos.</h3>
   <form align="center" action="consultas/consulta1.php" method="post">
+  <div class=button>
     <input type="submit" value="Buscar">
+  </div>
   </form>
   
   <br>
